@@ -1,24 +1,5 @@
-# README
+# Sample app using Docker and Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Refer: https://docs.docker.com/compose/rails/#connect-the-database
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+(DB -> Connect to app database via dbeaver specifying container IP and port)
